@@ -1,0 +1,24 @@
+form {
+	border: 1px solid #99e6ff;
+	margin: 40px;
+	padding: 0 20px 20px 20px;
+	width: 500px;
+}
+h2 {
+	color : #004d66;
+}
+input[type=submit] {
+	background-color: #008CBA;
+	border: none;
+	color: white;
+	padding: 10px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: block;
+	font-size: 14px;
+	margin-top : 30px;
+}
+input[type=file] {
+	border: 1px solid #008CBA;
+	padding: 5px;
+}
